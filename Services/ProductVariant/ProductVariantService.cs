@@ -4,9 +4,9 @@ namespace onlizas.Services.ProductVariant;
 
 public class ProductVariantService : IProductVariantService
 {
-    private readonly AppDbContext _db;
+    private readonly OnlizasDb _db;
 
-    public ProductVariantService(AppDbContext db)
+    public ProductVariantService(OnlizasDb db)
     {
         _db = db;
     }

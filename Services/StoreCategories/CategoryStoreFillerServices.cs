@@ -7,9 +7,9 @@ namespace onlizas.Services.StoreCategories;
 
 public class CategoryStoreFillerServices : ICategoryStoreFillerServices
 {
-    private readonly AppDbContext _db;
+    private readonly OnlizasDb _db;
 
-    public CategoryStoreFillerServices(AppDbContext db)
+    public CategoryStoreFillerServices(OnlizasDb db)
     {
         _db = db;
     }

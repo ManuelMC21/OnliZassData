@@ -5,9 +5,9 @@ namespace onlizas.Services.CurrencyConverter;
 
 public class CurrencyConverter : ICurrencyConverter
 {
-    private readonly AppDbContext _db;
+    private readonly OnlizasDb _db;
 
-    public CurrencyConverter(AppDbContext db)
+    public CurrencyConverter(OnlizasDb db)
     {
         _db = db;
     }

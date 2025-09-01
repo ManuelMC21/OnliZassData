@@ -6,7 +6,7 @@ namespace onlizas.Services.Trace;
 
 public class CategoryLogService : EntityLogService<Category, CategoryLog>
 {
-    public CategoryLogService(AppDbContext db) : base(db) { }
+    public CategoryLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
         CategoryLog log,

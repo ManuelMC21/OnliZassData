@@ -21,7 +21,7 @@ using BCrypt.Net;
 
 namespace onlizas.Data;
 
-public class AppDbContext : DbContext
+public class OnlizasDb : DbContext
 {
 
     public DbSet<Category> Categories => Set<Category>();
@@ -89,7 +89,7 @@ public class AppDbContext : DbContext
     public DbSet<TransferItemAllocation> TransferItemAllocations => Set<TransferItemAllocation>();
     public DbSet<Movement> Movements => Set<Movement>();
 
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+    public OnlizasDb(DbContextOptions<OnlizasDb> options) : base(options)
     {
     }
     

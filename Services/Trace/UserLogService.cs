@@ -8,8 +8,8 @@ namespace onlizas.Services.Trace;
 
 public class UserLogService : EntityLogService<User, UserLog>
 {
-    private readonly AppDbContext _db;
-    public UserLogService(AppDbContext db) : base(db) { _db = db; }
+    private readonly OnlizasDb _db;
+    public UserLogService(OnlizasDb db) : base(db) { _db = db; }
 
     protected override void SetCommonLogProperties(
         UserLog log,

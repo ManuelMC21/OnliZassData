@@ -7,7 +7,7 @@ namespace onlizas.Services.Trace;
 
 public class DocumentLogService : EntityLogService<Document, DocumentLog>
 {
-    public DocumentLogService(AppDbContext db) : base(db) { }
+    public DocumentLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
     DocumentLog log,

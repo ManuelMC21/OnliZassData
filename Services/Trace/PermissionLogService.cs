@@ -7,7 +7,7 @@ namespace onlizas.Services.Trace;
 
 public class PermissionLogService : EntityLogService<Permission, PermissionLog>
 {
-    public PermissionLogService(AppDbContext db) : base(db) { }
+    public PermissionLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
         PermissionLog log,

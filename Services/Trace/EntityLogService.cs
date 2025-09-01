@@ -9,9 +9,9 @@ public class EntityLogService<T, TLog> : IEntityLogService<T, TLog>
     where T : class
     where TLog : class, new()
 {
-    protected readonly AppDbContext _db;
+    protected readonly OnlizasDb _db;
 
-    public EntityLogService(AppDbContext db)
+    public EntityLogService(OnlizasDb db)
     {
         _db = db;
     }

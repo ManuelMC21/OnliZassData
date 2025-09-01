@@ -5,7 +5,7 @@ using onlizas.Entities;
 namespace onlizas.Services.Trace;
 public class CurrencyLogService : EntityLogService<Currency, CurrencyLog>
 {
-    public CurrencyLogService(AppDbContext db) : base(db) { }
+    public CurrencyLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
         CurrencyLog log,

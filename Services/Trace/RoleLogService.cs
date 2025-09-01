@@ -6,7 +6,7 @@ namespace onlizas.Services.Trace;
 
 public class RoleLogService : EntityLogService<Role, RoleLog>
 {
-    public RoleLogService(AppDbContext db) : base(db) { }
+    public RoleLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
         RoleLog log,

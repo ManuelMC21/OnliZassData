@@ -7,7 +7,7 @@ namespace onlizas.Services.Trace;
 
 public class BusinessLogService : EntityLogService<Business, BusinessLog>
 {
-    public BusinessLogService(AppDbContext db) : base(db) { }
+    public BusinessLogService(OnlizasDb db) : base(db) { }
 
     protected override void SetCommonLogProperties(
         BusinessLog log,
