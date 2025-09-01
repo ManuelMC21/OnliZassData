@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnliZassData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e38666becadcbc3abfc8b2abb5f277bf224ed4a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnliZassData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnliZassData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

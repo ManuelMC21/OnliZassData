@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>OnliZassData</authors>
     <description>Package Description</description>
-    <repository type="git" />
+    <repository type="git" commit="e38666becadcbc3abfc8b2abb5f277bf224ed4a6" />
     <dependencies>
       <group targetFramework="net9.0">
         <dependency id="BCrypt" version="1.0.0" exclude="Build,Analyzers" />

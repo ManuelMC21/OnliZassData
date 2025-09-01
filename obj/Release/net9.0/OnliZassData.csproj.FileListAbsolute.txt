@@ -12,3 +12,4 @@
 /Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.pdb
 /Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.genruntimeconfig.cache
 /Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/ref/OnliZassData.dll
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.sourcelink.json
