@@ -1,0 +1,14 @@
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.csproj.AssemblyReference.cache
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.AssemblyInfoInputs.cache
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.AssemblyInfo.cs
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.csproj.CoreCompileInputs.cache
+/Users/ily/Documents/GitHub/OnliZassData/bin/Release/net9.0/OnliZassData.deps.json
+/Users/ily/Documents/GitHub/OnliZassData/bin/Release/net9.0/OnliZassData.runtimeconfig.json
+/Users/ily/Documents/GitHub/OnliZassData/bin/Release/net9.0/OnliZassData.dll
+/Users/ily/Documents/GitHub/OnliZassData/bin/Release/net9.0/OnliZassData.pdb
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.dll
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/refint/OnliZassData.dll
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.pdb
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/OnliZassData.genruntimeconfig.cache
+/Users/ily/Documents/GitHub/OnliZassData/obj/Release/net9.0/ref/OnliZassData.dll
